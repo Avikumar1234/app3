@@ -6,6 +6,18 @@
   height: 40vmin;
   pointer-events: none;
 }
+.h3{
+  display:block;
+  text-align: center;
+  color: blue;
+  
+
+}
+
+.form-check-label{
+  color:blue;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
